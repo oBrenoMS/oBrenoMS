@@ -16,7 +16,4 @@
       <a href = "mailto:brenomartinsilva2019@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/brenoo.brn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-    ![code](https://user-images.githubusercontent.com/104370403/179823987-a5f04785-d89c-4373-8795-f03ed63a0fef.gif)
-
-
   </div>
